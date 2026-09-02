@@ -103,21 +103,6 @@ publicly accessible work here on GitHub.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=hlibi17&show_icons=true&theme=transparent&hide_border=true&hide_title=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlibi17&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
-
----
-
 <p align="center">
   <i>Always learning. Always building.</i>
 </p>
