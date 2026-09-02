@@ -1,65 +1,120 @@
+<p align="center">
+  <img src="./assets/hwa-ryun-banner.png" alt="Hafiz Aulia Habibie Banner" width="100%" />
+</p>
+
 <h1 align="center">Hafiz Aulia Habibie</h1>
 
 <p align="center">
-  <b>Bachelor of Informatics · Software Development · Machine Learning</b>
+  <b>Informatics Graduate · Python · Machine Learning · Web Development</b>
 </p>
 
 <p align="center">
-  Building practical software and data-driven applications with a focus on
-  Python, machine learning, and web technologies.
+  Building practical software and data-driven applications from ideas,
+  problems, and a little bit of curiosity.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hlibi17">
+    <img src="https://img.shields.io/badge/GitHub-hlibi17-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an Informatics graduate interested in turning ideas and data into
-working applications.
+I'm an Informatics graduate interested in **software development**,
+**machine learning**, and **data-driven applications**.
 
-My work spans **software development**, **machine learning**, and
-**web-based systems**, with a particular interest in projects that combine
-technical problem-solving with real-world applications.
+I enjoy turning ideas and real-world problems into working software —
+from web applications and interactive prototypes to machine learning systems.
 
 - 🎓 Bachelor of Informatics — Class of 2026
 - 💻 Interested in Software Development & Machine Learning
 - 🧠 Exploring practical applications of data and AI
+- 🌐 Also interested in Web Development
 - 📍 Indonesia
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
-`Python` · `PHP` · `JavaScript` · `SQL`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+</p>
 
 ### Machine Learning & Data
-`scikit-learn` · `Pandas` · `NumPy`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+`Pandas` · `NumPy`
 
 ### Web Development
-`Streamlit` · `Laravel` · `Tailwind CSS`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
+</p>
+
+`Streamlit`
 
 ### Databases
-`MySQL` · `PostgreSQL` · `MongoDB`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
 ### Tools
-`Git` · `GitHub` · `VS Code`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## What I Like to Build
+## 🎯 What I Build
 
-- Machine learning applications
-- Data-driven systems
-- Web applications
-- Interactive prototypes
-- Projects that combine software, data, and real-world problems
+- 🤖 Machine Learning Applications
+- 📊 Data-Driven Systems
+- 🌐 Web Applications
+- 🧩 Interactive Prototypes
+- ⚙️ Software that combines data, logic, and real-world problems
 
 ---
 
-## Currently
+## 🌱 Currently
 
-I'm currently organizing and documenting the projects I've built throughout
+I'm currently organizing and refining the projects I've built throughout
 my Informatics studies while preparing to begin my professional career in tech.
+
+The next step is turning those projects into well-documented,
+publicly accessible work here on GitHub.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=hlibi17&show_icons=true&theme=transparent&hide_border=true&hide_title=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlibi17&layout=compact&theme=transparent&hide_border=true"
+  />
+</p>
 
 ---
 
