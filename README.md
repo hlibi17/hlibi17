@@ -50,35 +50,55 @@ from web applications and interactive prototypes to machine learning systems.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="48" alt="PHP" title="PHP" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3" />
 </p>
 
 ### Machine Learning & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" title="scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" title="NumPy" />
 </p>
-
-`Pandas` · `NumPy`
 
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="48" alt="Laravel" title="Laravel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" title="Streamlit" />
 </p>
-
-`Streamlit`
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="48" alt="GitHub" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code" />
 </p>
 
 ---
