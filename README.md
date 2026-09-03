@@ -47,7 +47,7 @@ from web applications and interactive prototypes to machine learning systems.
 
 ## 🧰 Tech Stack
 
-### Languages & Fundamentals
+### Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="46" alt="Python" title="Python" />
@@ -71,8 +71,6 @@ from web applications and interactive prototypes to machine learning systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="46" alt="NumPy" title="NumPy" />
 </p>
 
-`K-Nearest Neighbors` · `Random Forest` · `Temporal Evaluation` · `FastF1`
-
 ### Web Development
 
 <p>
@@ -87,15 +85,15 @@ from web applications and interactive prototypes to machine learning systems.
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="46" alt="Streamlit" title="Streamlit" />
 </p>
 
-### Browser & Interactive Applications
+### Browser & PWA
 
 <p>
-  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="46" alt="Progressive Web Apps" title="Progressive Web Apps" />
+  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="46" alt="Progressive Web App" title="Progressive Web App" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="46" alt="HTML5 Canvas" title="HTML5 Canvas" />
 </p>
 
-`HTML5 Canvas` · `IndexedDB` · `Web Crypto API` · `Service Workers` · `LocalStorage`
-
-### Databases & Storage
+### Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="46" alt="MySQL" title="MySQL" />
@@ -105,7 +103,7 @@ from web applications and interactive prototypes to machine learning systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="46" alt="MongoDB" title="MongoDB" />
 </p>
 
-### AI, APIs & Services
+### AI & Cloud Services
 
 <p>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="46" alt="Google Gemini" title="Google Gemini" />
@@ -113,23 +111,11 @@ from web applications and interactive prototypes to machine learning systems.
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="46" alt="Netlify" title="Netlify" />
 </p>
 
-`Gemini API` · `Serverless Functions` · `Midtrans Sandbox`
-
-### Game & Simulation Development
-
-`Pygame` · `HTML5 Canvas` · `Game Loops` · `Enemy AI` · `Local Save Systems`
-
 ### Media & Utilities
 
 <p>
   <img src="https://cdn.simpleicons.org/ffmpeg/007808" height="46" alt="FFmpeg" title="FFmpeg" />
 </p>
-
-`yt-dlp`
-
-### Networking
-
-`UDP Sockets` · `Client–Server Architecture` · `DNS Concepts`
 
 ### Development Tools
 
@@ -141,6 +127,19 @@ from web applications and interactive prototypes to machine learning systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="46" alt="VS Code" title="VS Code" />
 </p>
 
+### Libraries, APIs & Platforms
+
+`FastF1` · `yt-dlp` · `Gemini API` · `Midtrans Sandbox`
+
+### Web APIs & Storage
+
+`IndexedDB` · `Web Crypto API` · `Service Workers` · `LocalStorage`
+
+### Concepts & Practices
+
+`K-Nearest Neighbors` · `Random Forest` · `Temporal Evaluation` ·
+`Game Loops` · `Enemy AI` · `Local Save Systems` ·
+`UDP Sockets` · `Client–Server Architecture` · `DNS`
 ---
 
 ## 🎯 What I Build
