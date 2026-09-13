@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_PORTFOLIO_URL](https://hafiz-aulia-habibie-portfolio.boyhabibie34.workers.dev)">
+  <a href="https://hafiz-aulia-habibie-portfolio.boyhabibie34.workers.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-DC143C?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
