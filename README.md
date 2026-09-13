@@ -5,25 +5,28 @@
 <h1 align="center">Hafiz Aulia Habibie</h1>
 
 <p align="center">
-  <b>Informatics Graduate · Python · Machine Learning · Web Development</b>
+  <b>Software Developer · Web Applications · Machine Learning · Interactive Experiences</b>
 </p>
 
 <p align="center">
-  Building practical software and data-driven applications from ideas,
-  problems, and a little bit of curiosity.
+  Building useful systems, data-driven applications, and interactive experiences.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="[YOUR_PORTFOLIO_URL](https://hafiz-aulia-habibie-portfolio.boyhabibie34.workers.dev)">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-DC143C?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/hlibi17">
     <img src="https://img.shields.io/badge/GitHub-hlibi17-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <!-- <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a> -->
+  &nbsp;
+  <a href="mailto:hafizhabibie17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -31,16 +34,18 @@
 
 ## 👨‍💻 About Me
 
-I'm an Informatics graduate interested in **software development**,
-**machine learning**, and **data-driven applications**.
+I'm an Informatics graduate and software developer interested in building
+**web applications**, **machine learning systems**, and
+**interactive digital experiences**.
 
-I enjoy turning ideas and real-world problems into working software —
-from web applications and interactive prototypes to machine learning systems.
+My work ranges from full-stack applications and local-first PWAs to
+browser games, Python utilities, data-driven systems, and experimental
+interactive web experiences.
 
 - 🎓 Bachelor of Informatics — Class of 2026
-- 💻 Interested in Software Development & Machine Learning
-- 🧠 Exploring practical applications of data and AI
-- 🌐 Also interested in Web Development
+- 💻 Software Development & Web Engineering
+- 🧠 Applied Machine Learning & Data-Driven Systems
+- 🎮 Interactive Web & Creative Development
 - 📍 Indonesia
 
 ---
@@ -50,115 +55,116 @@ from web applications and interactive prototypes to machine learning systems.
 ### Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="46" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="44" alt="Python" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="46" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" title="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="46" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="44" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="46" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="44" alt="PHP" title="PHP" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="46" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="44" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="44" alt="CSS3" title="CSS3" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="44" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="44" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
+
+`GSAP` · `Motion` · `Three.js` · `React Three Fiber`
+
+### Backend & Web
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="44" alt="Flask" title="Flask" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" height="44" alt="CodeIgniter" title="CodeIgniter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="44" alt="Streamlit" title="Streamlit" />
 </p>
 
 ### Machine Learning & Data
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="46" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="44" alt="scikit-learn" title="scikit-learn" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="46" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="44" alt="Pandas" title="Pandas" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="46" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="44" alt="NumPy" title="NumPy" />
 </p>
 
-### Web Development
+`FastF1` · `KNN` · `Random Forest`
+
+### Data & Storage
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="46" alt="Flask" title="Flask" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="46" alt="Laravel" title="Laravel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" height="46" alt="CodeIgniter" title="CodeIgniter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="46" alt="Tailwind CSS" title="Tailwind CSS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="46" alt="Streamlit" title="Streamlit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="44" alt="MySQL" title="MySQL" />
 </p>
 
-### Browser & PWA
+`IndexedDB` · `SQLite` · `LocalStorage`
+
+### Interactive Web
+
+`HTML5 Canvas` · `Web Audio API` · `Web Crypto API` ·
+`Service Workers` · `PWA` · `WebGL`
+
+### APIs & Services
 
 <p>
-  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="46" alt="Progressive Web App" title="Progressive Web App" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="44" alt="Google Gemini" title="Google Gemini" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="46" alt="HTML5 Canvas" title="HTML5 Canvas" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="44" alt="Cloudflare" title="Cloudflare Workers" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="44" alt="Netlify" title="Netlify" />
 </p>
 
-### Databases
+`Gemini API` · `Cloudflare Workers` · `Midtrans Sandbox`
+
+### Tools & Platforms
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="46" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="44" alt="Git" title="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="46" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="44" alt="GitHub" title="GitHub" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="46" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="44" alt="VS Code" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="44" alt="Vite" title="Vite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ffmpeg/007808" height="44" alt="FFmpeg" title="FFmpeg" />
 </p>
 
-### AI & Cloud Services
+`yt-dlp` · `Composer` · `npm`
 
-<p>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="46" alt="Google Gemini" title="Google Gemini" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="46" alt="Netlify" title="Netlify" />
-</p>
-
-### Media & Utilities
-
-<p>
-  <img src="https://cdn.simpleicons.org/ffmpeg/007808" height="46" alt="FFmpeg" title="FFmpeg" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="46" alt="Git" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="46" alt="GitHub" title="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="46" alt="VS Code" title="VS Code" />
-</p>
-
-### Libraries, APIs & Platforms
-
-`FastF1` · `yt-dlp` · `Gemini API` · `Midtrans Sandbox`
-
-### Web APIs & Storage
-
-`IndexedDB` · `Web Crypto API` · `Service Workers` · `LocalStorage`
-
-### Concepts & Practices
-
-`K-Nearest Neighbors` · `Random Forest` · `Temporal Evaluation` ·
-`Game Loops` · `Enemy AI` · `Local Save Systems` ·
-`UDP Sockets` · `Client–Server Architecture` · `DNS`
 ---
 
 ## 🎯 What I Build
 
-- 🤖 Machine Learning Applications
-- 📊 Data-Driven Systems
-- 🌐 Web Applications
-- 🧩 Interactive Prototypes
-- ⚙️ Software that combines data, logic, and real-world problems
+- 🌐 Full-Stack & Modern Web Applications
+- 🧠 Machine Learning & Data-Driven Systems
+- ✨ Interactive & Creative Web Experiences
+- 📱 Local-First & Progressive Web Apps
+- 🎮 Browser-Based Interactive Systems
+- 🐍 Python Applications & Utilities
 
 ---
 
-## 🌱 Currently
+## 🌐 Portfolio
 
-I'm currently organizing and refining the projects I've built throughout
-my Informatics studies while preparing to begin my professional career in tech.
+Explore my selected work, experiments, and experience on my personal website.
 
-The next step is turning those projects into well-documented,
-publicly accessible work here on GitHub.
+<p align="center">
+  <a href="https://hafiz-aulia-habibie-portfolio.boyhabibie34.workers.dev">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-→-DC143C?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
