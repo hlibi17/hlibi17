@@ -16,15 +16,12 @@
   <a href="https://hafiz-aulia-habibie-portfolio.boyhabibie34.workers.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-DC143C?style=flat-square&logo=vercel&logoColor=white">
   </a>
-  
   <a href="https://github.com/hlibi17">
     <img src="https://img.shields.io/badge/GitHub-hlibi17-181717?style=flat-square&logo=github&logoColor=white">
   </a>
-  
   <a href="https://www.linkedin.com/in/hafiz-habibie-02002b355">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  
   <a href="mailto:hafizhabibie17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
