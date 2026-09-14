@@ -21,9 +21,9 @@
     <img src="https://img.shields.io/badge/GitHub-hlibi17-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <!-- <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/hafiz-habibie-02002b355">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a> -->
+  </a>
   &nbsp;
   <a href="mailto:hafizhabibie17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
