@@ -70,7 +70,6 @@ interactive web experiences.
 
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
----
 
 ### Frontend
 
@@ -89,7 +88,6 @@ interactive web experiences.
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Three Fiber" />
 </p>
 
----
 
 ### Backend & Web
 
@@ -101,7 +99,6 @@ interactive web experiences.
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="44" alt="Streamlit" title="Streamlit" />
 </p>
 
----
 
 ### Machine Learning & Data
 
@@ -119,7 +116,6 @@ interactive web experiences.
   <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square" alt="Random Forest" />
 </p>
 
----
 
 ### Data & Storage
 
@@ -134,7 +130,6 @@ interactive web experiences.
   <img src="https://img.shields.io/badge/LocalStorage-Browser%20Storage-444444?style=flat-square" alt="LocalStorage" />
 </p>
 
----
 
 ### Interactive Web & Browser APIs
 
@@ -153,7 +148,6 @@ interactive web experiences.
   <img src="https://img.shields.io/badge/Service%20Workers-Offline%20Web-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="Service Workers" />
 </p>
 
----
 
 ### AI, APIs & Services
 
@@ -171,7 +165,6 @@ interactive web experiences.
   <img src="https://img.shields.io/badge/Midtrans-Sandbox-1C80C3?style=flat-square" alt="Midtrans Sandbox" />
 </p>
 
----
 
 ### Tools & Platforms
 
